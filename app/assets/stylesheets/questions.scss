@@ -1,0 +1,26 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+
+h1 {
+  color: green;
+  margin-bottom: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 19px;
+  font-family: 'Lato', sans-serif;
+}
+
+#btn {
+  font-family: 'Lato', sans-serif;
+  background-color: white;
+  border-radius: 10px;
+}
+
+#wrapper {
+  text-align: center;
+}
